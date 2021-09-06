@@ -1,2 +1,6 @@
 This is the sample login page.
 This page contains a code for simple login layout.
+Page Content:
+-logo
+-username and password fields
+-login button.
